@@ -1,39 +1,33 @@
-# 手机短接图
+楚原短接图工具v1.4 tg@Chuyuan114514 
 
-#### 介绍
-{**以下是 Gitee 平台说明，您可以替换此简介**
-Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
-无论是个人、团队、或是企业，都能够用 Gitee 实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
+支持型号
 
-#### 软件架构
-软件架构说明
+小米
 
+小米2s 小米2a 小米3 小米4 小米4s 小米4c 小米5 小米5s 小米5s plus 小米5x 小米5c 小米6 小米6x 小米8 小米8青春版 
+小米8屏幕指纹版 小米8se 小米9 小米9se 小米10 小米note标配 小米note顶配  小米note2 小米note3 小米mix
+小米mix2 小米mix2s 小米mix3 小米max 小米max2 小米max3 小米平板3 小米平板4 小米cc9 小米cc9e 小米cc9美图版
 
-#### 安装教程
+红米
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+红米1s 红米2 红米2A 红米3 红米3s 红米3x 红米4标准版 红米4高配版 红米4a 红米4x 红米5 红米5a 红米5plus 红米6pro 红米7
+红米7a 红米8 红米8a 红米note（单卡和双卡版本）红米note3 红米note4x 红米note5a 红米note7 红米note7pro 红米note8
+红米note9高通版 红米s2
 
-#### 使用说明
+oppo
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+OPPO A1,A83,A83T  OPPO A3 OPPO A7X  OPPO A73系列 OPPO A79 OPPO A79 A79t OPPO R15MTK版
 
-#### 参与贡献
+360
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+N4S 1505-A02 N5 1605-A01 N5S 1607-A01 N5A 1711-A01 N6 Lite 1713-A01 N6 1707-A01 N6 Pro 1801-A01 N7 1807-A01
+N7 Pro 1809-A01 N7 Lite 1803-A01
 
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+vivo
+VIVO X6A VIVO X710L VIVO X9 X9i X9L VIVO X9 Plus  VIVO X9S X9SL  VIVO X9S VIVO X20 X20A VIVO X20Plus VIVO X21
+VIVO X21S VIVO X23 VIVO X23 VIVO X23幻彩版 VIVO X27 VIVO X27Pro X50 (PD2001) X50Pro (PD2005) X50PRO+(PD2011)
+VIVO Xplay5A&5S VIVO XPlay6 VIVO Y50 Y30 (PD2034)VIVO Y31SVIVO Y51VIVO Y55VIVO Y66VIVO Y71VIVO Y73 Y71S
+VIVO Y75SVIVO Y79VIVO Y85系列VIVO Y89VIVO Z1VIVO Y93VIVO Y95VIVO Y3VIVO Y9SVIVO S1 ProVIVO S5S7 (PD2020)VIVO NEXVIVO NEX 双面屏VIVO NEX SVIVO NEX 3 PD1924.NEX 3S (PD1950)VIVO Z1VIVO Z1iVIVO Z3
+VIVO Z3X VIVO Z5VIVO Z5XVIVO Z5iVIVO Z6 （PD1963）VIVO U1VIVO U3VIVO U3XVIVO iQOOVIVO iQOO Neo845版本
+VIVO IQOO Neo 855版本VIVO IQOO PRO PD1916IQOO NEO3 （PD1981）IQOO NEO5IQOO NEO5活力版IQOO Z3IQOO U1 (PD2023)
+IQOO U1X (PD2065)iQOO Z1X (PD2012)IQOO3 (PD1955)IQOO5(PD2024) IQOO5 PRO(PD2025)                                                 
