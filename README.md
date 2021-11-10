@@ -53,7 +53,7 @@ Mate30 RS 保时捷 LIO-AN00P Mate30E Pro(LIO-AN00m)
 
 mate40短接图 mate40E (OCE-AN50)
 
-mate40Pro 短接图.png MateRS.png
+mate40Pro 短接图  MateRS
 
 NOVA 海外版     Nova 青春版       NOVA2         Nova2Plus
 
@@ -71,19 +71,19 @@ nova8SE  华为NOVA8SE活力版_
 
 NOVA8 ANG-AN00  NOVA8Pro BRQ-AN00 
 
-P7                        p8.                   P8Lite.png
+P7                        p8.                   P8Lite
 
-P9.               P9Lite      P9海外版（EVA-L19）.png       P10 Plus
+P9.               P9Lite      P9海外版（EVA-L19）       P10 Plus
 
 P10.            P20PRO.      P20.                
 
 P30.            P30Pro.      P40（ANA-AN00）         P40Pro（ELS-AN00）
 
-P40 Pro+（ELS-AN10）.
+P40 Pro+（ELS-AN10）
 
-畅玩4（G620S-UL00）.png              畅玩4X(Che1-CL20)        畅玩4X
+畅玩4（G620S-UL00）             畅玩4X(Che1-CL20)        畅玩4X
 
-畅玩5A(CAM-AL00).png          畅玩6X  畅玩7A          畅玩7C
+畅玩5A(CAM-AL00)         畅玩6X  畅玩7A          畅玩7C
 
 畅玩7X     畅玩8c   畅享6S   畅享7             畅享7Plus
 
@@ -97,7 +97,7 @@ P40 Pro+（ELS-AN10）.
 
 畅享10E   畅享10plus.     畅享10S                   
 
-畅享20se（PPA-AL20）.png   畅享20Plus FRL-AN00a
+畅享20se（PPA-AL20）  畅享20Plus FRL-AN00a
 
 
 畅享20 WKG-AN00    畅享20Pro DVC-AN20             畅享Z-DVC-AN00
@@ -117,7 +117,7 @@ P40 Pro+（ELS-AN10）.
 荣耀30          荣耀30青春版 MXW-AN00                           荣耀30Pro      
 
 
-荣耀30S(CDY-AN90)        荣耀50.png   荣耀50SE（JLH-AN00）
+荣耀30S(CDY-AN90)        荣耀50  荣耀50SE（JLH-AN00）
 
 荣耀Magic2(TNY-AL00)  荣耀Note8.                           荣耀note10
 
