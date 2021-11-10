@@ -36,4 +36,115 @@ VIVO Xplay5A&5S VIVO XPlay6 VIVO Y50 Y30 (PD2034)VIVO Y31SVIVO Y51VIVO Y55VI
 VIVO Y75SVIVO Y79VIVO Y85系列VIVO Y89VIVO Z1VIVO Y93VIVO Y95VIVO Y3VIVO Y9SVIVO S1 ProVIVO S5S7 (PD2020)VIVO NEXVIVO NEX 双面屏VIVO NEX SVIVO NEX 3 PD1924.NEX 3S (PD1950)VIVO Z1VIVO Z1iVIVO Z3
 VIVO Z3X VIVO Z5VIVO Z5XVIVO Z5iVIVO Z6 （PD1963）VIVO U1VIVO U3VIVO U3XVIVO iQOOVIVO iQOO Neo845版本
 VIVO IQOO Neo 855版本VIVO IQOO PRO PD1916IQOO NEO3 （PD1981）IQOO NEO5IQOO NEO5活力版IQOO Z3IQOO U1 (PD2023)
-IQOO U1X (PD2065)iQOO Z1X (PD2012)IQOO3 (PD1955)IQOO5(PD2024) IQOO5 PRO(PD2025)                                                 
+IQOO U1X (PD2065)iQOO Z1X (PD2012)IQOO3 (PD1955)IQOO5(PD2024) IQOO5 PRO(PD2025)        
+
+华为
+
+G9 Plus             G9 青春版             Mate9            Mate8
+
+Mate10 pro       Mate9Pro           Mate20          MATE20 PRO
+
+Mate10             mate20x 5G         Mate20X         mate30 pro 4G版
+
+mate30 4G/5G版     Mate30 Pro5G版（LiO-AN00）  
+
+Mate30 RS 保时捷 LIO-AN00P Mate30E Pro(LIO-AN00m) 
+
+
+mate40短接图 mate40E (OCE-AN50)
+
+mate40Pro 短接图.png MateRS.png
+
+NOVA 海外版     Nova 青春版       NOVA2         Nova2Plus
+
+Nova2S               Nova3               Nova3E          Nova3i
+
+NOVA4                nova4e(MAR-AL00)                         
+
+nova5Z nova5I PRO   nova5
+
+Nova5i    nova5PRo（SEA-AL10）     nova6 4G 版  Nova6 5g 
+
+nova6SE    nova7Pro    nova7   nova7SE   nova7se活力版
+
+nova8SE  华为NOVA8SE活力版_
+
+NOVA8 ANG-AN00  NOVA8Pro BRQ-AN00 
+
+P7                        p8.                   P8Lite.png
+
+P9.               P9Lite      P9海外版（EVA-L19）.png       P10 Plus
+
+P10.            P20PRO.      P20.                
+
+P30.            P30Pro.      P40（ANA-AN00）         P40Pro（ELS-AN00）
+
+P40 Pro+（ELS-AN10）.
+
+畅玩4（G620S-UL00）.png              畅玩4X(Che1-CL20)        畅玩4X
+
+畅玩5A(CAM-AL00).png          畅玩6X  畅玩7A          畅玩7C
+
+畅玩7X     畅玩8c   畅享6S   畅享7             畅享7Plus
+
+畅享7S      畅享8   畅享8E    畅享8PLUS    畅玩8a(JAT)
+
+畅享9（DUB-AL20）    畅享9
+
+畅享9A（MOA-XXX）                畅享9E 短接图
+
+畅享9S      畅享10                         畅享9Plus
+
+畅享10E   畅享10plus.     畅享10S                   
+
+畅享20se（PPA-AL20）.png   畅享20Plus FRL-AN00a
+
+
+畅享20 WKG-AN00    畅享20Pro DVC-AN20             畅享Z-DVC-AN00
+
+麦芒5       麦芒6   麦芒7      麦芒8            麦芒9TNN-AN00
+
+荣耀4A       荣耀5X 荣耀6     荣耀7           荣耀8
+
+荣耀8X       荣耀8青春版                    荣耀9             荣耀9i TP
+
+荣耀9i(RNE-L22)             荣耀9XPro                                 荣耀9X
+
+荣耀9青春版 荣耀10 荣耀10青春                         荣耀20         
+
+荣耀20S        荣耀20青春   荣耀20i                          荣耀20Pro  
+
+荣耀30          荣耀30青春版 MXW-AN00                           荣耀30Pro      
+
+
+荣耀30S(CDY-AN90)        荣耀50.png   荣耀50SE（JLH-AN00）
+
+荣耀Magic2(TNY-AL00)  荣耀Note8.                           荣耀note10
+
+
+荣耀Play ace.                        荣耀play3畅享10
+
+荣耀Play3e-KAS-AL10          荣耀PLAY4 (TNNH-AN00)
+荣耀Play4T                          荣耀Play4Pro                      荣耀Play4T PRO
+
+荣耀PLAY5 (HJC-AN90)
+
+荣耀V8       荣耀V9   荣耀V10        荣耀V10 版本二
+
+荣耀X10MAXKKG-AN00      荣耀X10   
+
+荣耀X20SE CHL-AN00）     荣耀V20      荣耀V30
+
+荣耀V30Pro.jpg  荣耀V40 YOK-AN10.jpg    荣耀V40轻奢版
+
+平板M5 SHT-W09 8.4寸    华为M5青春（BAH2-AL10）
+
+平板M6       平板M6 AL09
+
+荣耀平板6（AGS3-W09）     华为荣耀平板V6（KRJ-W09）
+
+华为平板matepad(BAH3-W59) 华为平板matepad (BAH3-W09)
+
+AGS3-W00D 畅享平板2 
+
+mate padpro（MRX-W09）                                      
